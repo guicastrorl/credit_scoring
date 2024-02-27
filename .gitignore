@@ -1,0 +1,6 @@
+DADOS
+ETL
+hackhaton_ds_001_pod_academy_env
+venv
+*.sqlite3
+*.txt
